@@ -26,7 +26,7 @@ zh-Hant, zh-Hant-CN, zh-Hant-SG, zh-Hant-HK, zh-Hant-MO, zh-Hant-TW
 ```
 
 ## CHARSET
-> 默认推荐使用 \<meta charset="UTF-8">
+> 默认推荐使用 \<meta charset="UTF-8">
 
 
 ## 脚本加载
@@ -205,7 +205,7 @@ html 代码:
 
 ## HTML代码大小写
 > HTML标签名、标签属性和大部分属性值统一用小写.属性值使用kabab-case方式
-> id属性可使用underscore方式命名.这带来的好处是。在js文件中可以快速区分class和id。当然。这不强制。只是一个建议。
+> id属性可使用underscore方式命名.这带来的好处是。在js文件中可以快速区分class和id。当然。这不强制。只是一个建议。
 > *需要注意的是。这个规范在vue组件中会有不同。这个在VUE.md中会进一步说明。
 
 ```
@@ -242,8 +242,8 @@ html 代码:
 ```
 
 ## 元素属性
-> - 元素属性值同使用双引号语法
-> - 元素属性值尽量填充完整
+> - 元素属性值同使用双引号语法
+> - 元素属性值尽量填充完整
 
 ```
 // bad
